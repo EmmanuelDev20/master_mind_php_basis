@@ -1,0 +1,10 @@
+img {
+  width: 20px;
+}
+
+.welcome {
+  /* background-color: red !important; */
+  background: url('/master_mind_php/static/img/background.jpg');
+  background-position: center center;
+  background-size: cover;
+}
